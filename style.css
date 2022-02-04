@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(203, 255, 229);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+table{ 
+    border-collapse: collapse;  
+    display: initial;
+    
+}
+   
+td{   
+    border: 1px solid black;   
+    width: 45px;    
+    height: 45px;  
+    
+
+}
+.main{
+    font-size: 25px;
+}
+.row{
+    background-color: mediumturquoise;
+    outline: none;
+    font-size: 18px;
+    border-radius: 8px;
+    width: 300px;
+}  
+.column{
+    background-color: mediumturquoise;
+    outline: none;
+    font-size: 18px;
+    border-radius: 8px;
+    width: 300px;
+}  
+.check{
+    background-color: mediumturquoise;
+    width: 250px;
+    margin: 15px;
+    border-radius: 8px;
+    padding: 10px;
+    outline: none;
+}
+.check:hover{
+    background-color: rgb(0, 180, 174);
+}
